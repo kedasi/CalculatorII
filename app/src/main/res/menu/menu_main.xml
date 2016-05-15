@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.edasi.kerli.androidkalkulaatorloogikastatistika.MainActivity">
+    <item
+        android:id="@+id/action_show_operationtypes"
+        android:orderInCategory="100"
+        android:title="@string/action_show_operationtypes"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_show_operations"
+        android:orderInCategory="100"
+        android:title="@string/action_show_operations"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_show_operationstats"
+        android:orderInCategory="100"
+        android:title="@string/action_show_operationstats"
+        app:showAsAction="never" />
+</menu>

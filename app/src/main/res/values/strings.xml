@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidKalkulaatorLoogikaStatistika</string>
+    <string name="action_settings">Settings</string>
+    <string name="sharedUserLabel">shareduserlabel</string>
+    <string name="action_show_operations">Operations</string>
+    <string name="action_show_operationtypes">Operation Types</string>
+    <string name="action_show_operationstats">Operation Statistics</string>
+</resources>
